@@ -51,16 +51,15 @@ This project was developed as an academic programming project with a focus on fi
 
 ## Pin Configuration
 
-| Component | Pin |
-|---------|-----|
-| Buzzer | 3 |
-| Red LED | 4 |
-| Green LED | 5 |
-| Decrease Button | 6 |
-| Increase Button | 7 |
-| Ultrasonic Trigger | 8 |
-| Ultrasonic Echo | 9 |
-| SD Card Chip Select | 10 |
+
+| Buzzer : 3 
+| Red LED : 4 
+| Green LED : 5 
+| Decrease Button : 6 
+| Increase Button : 7 
+| Ultrasonic Trigger : 8 
+| Ultrasonic Echo : 9 
+| SD Card Chip Select : 10 
 
 ---
 
