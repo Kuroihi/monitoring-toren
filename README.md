@@ -90,8 +90,7 @@ water_height = tank_height - measured_distance
 
 ## Water Level Status Logic
 
-| Water Percentage | Status | Indicator |
-|------------------|--------|----------|
+
 | < 20% | LOW | Red LED + Buzzer |
 | 20–85% | OKAY | Green LED |
 | > 85% | HIGH | Red LED + Buzzer |
