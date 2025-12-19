@@ -1,5 +1,5 @@
 ```md
-# Water Tank Monitoring System (Embedded System)
+# Water Tank Monitoring System
 
 ## Overview
 This project is a microcontroller-based water tank monitoring system designed to measure water level, display real-time status, trigger alerts, and log data for monitoring purposes. The system uses an ultrasonic sensor to calculate water height and percentage, provides visual and audible alerts, and records averaged data to an SD card.
